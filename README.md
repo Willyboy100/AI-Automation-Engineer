@@ -1,10 +1,37 @@
-# CRM IMPLEMENTATION SPECIALIST
+# AI AUTOMATION ENGINEER
 CRM Workflows, Automated Business Processes
 ---
-# ABOUT ME
+# 👋 Hi, I'm William Njoku
 
-## Hi, I'm William 👋
-A CRM Implementation Specialist focused on building data-driven insights, business intelligence dashboards, and automated CRM workflows that improve decision-making, customer management, and business efficiency. This repository showcases my CRM implementation and automation projects focused on building efficient customer relationship systems, lead management workflows, and business process automation using tools like Airtable, Make.com, and API integrations. The goal is to streamline customer engagement, improve follow-up processes, and enhance overall sales and service operations through structured and scalable CRM solutions.
+I'm an **AI Automation Engineer** and **Data Analyst** passionate about building intelligent systems that automate repetitive tasks, optimize business processes, and turn data into actionable insights.
+
+I enjoy designing workflow automations, integrating APIs, developing Python-based solutions, and creating analytics dashboards that help businesses operate more efficiently. My experience spans AI automation, CRM implementation, business intelligence, and process optimization.
+
+### 🚀 What I work with
+
+* Python
+* AI Automation
+* Make.com & n8n
+* SQL
+* Power BI
+* REST APIs
+* Git & GitHub
+* CRM Platforms (Freshworks, HubSpot, Zoho)
+
+### 📌 What you'll find here
+
+* AI automation workflows
+* Python automation projects
+* API integration examples
+* CRM implementation solutions
+* Power BI dashboards
+* Data analytics projects
+* Process automation tools
+
+I'm always exploring new AI technologies and building solutions that solve real business problems through automation and data.
+
+**Let's connect and build something impactful.**
+
 
 ---
 
