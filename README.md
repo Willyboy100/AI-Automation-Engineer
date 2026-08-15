@@ -43,6 +43,11 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 # MY PROJECTS 
 *Check out some of the projects I've been working on.* 😁
 
+**AI-Powered Outbound Automation System**
+AI Automation Engineering | n8n · Airtable · LLM APIs
+
+Built and hardened an AI-powered outbound workflow that transforms qualified leads into personalized, channel-aware first-touch messages. Implemented structured AI output validation, deterministic compliance checks, conditional channel routing, Airtable persistence, and workflow state management.
+
 **CRM-Customer Support Automation**
 ![image](Screenshot 2026-05-13 000219.png) 
 Designed and implemented a customer support ticket automation workflow using Make.com, Airtable, Gmail, and Slack to streamline ticket routing, customer communication, and internal support operations.
