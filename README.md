@@ -46,7 +46,9 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 **AI-Powered Outbound Automation System**
 AI Automation Engineering | n8n · Airtable · LLM APIs
 
-Built and hardened an AI-powered outbound workflow that transforms qualified leads into personalized, channel-aware first-touch messages. Implemented structured AI output validation, deterministic compliance checks, conditional channel routing, Airtable persistence, and workflow state management.
+![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
+Built and hardened an AI-powered outbound workflow that transforms qualified leads into personalized, channel-aware first-touch messages. Implemented structured AI output validation, deterministic compliance checks, conditional channel routing, Airtable persistence, and workflow state management. 
+[Read More](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing) 
 
 **CRM-Customer Support Automation**
 ![image](Screenshot 2026-05-13 000219.png) 
