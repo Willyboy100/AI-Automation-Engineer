@@ -43,9 +43,13 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 # MY PROJECTS 
 *Check out some of the projects I've been working on.* 😁
 
+**RWA Inc — AI Message Drafter**
+
+An AI-powered outbound messaging automation workflow built with n8n, Airtable, and LLM orchestration as part of the RWA Inc Autonomous Outbound System.
+The workflow automates the transition from a qualified prospect record to structured, personalized outreach messages while maintaining lead context, qualification logic, and processing state.
+
 **AI-Powered Outbound Automation System**
 AI Automation Engineering | n8n · Airtable · LLM APIs
-
 ![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
 Built and hardened an AI-powered outbound workflow that transforms qualified leads into personalized, channel-aware first-touch messages. Implemented structured AI output validation, deterministic compliance checks, conditional channel routing, Airtable persistence, and workflow state management. 
 [Read More](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing) 
