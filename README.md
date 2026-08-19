@@ -37,8 +37,7 @@ I'm always exploring new AI technologies and building solutions that solve real 
 
 ---
 
-# SKILLS
-TECHNICAL STACK
+# TECHNICAL STACK
 
 AI & LLMs
 Claude · OpenAI · Groq · Prompt Engineering · Structured Outputs
