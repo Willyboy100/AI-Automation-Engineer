@@ -22,13 +22,12 @@ I enjoy designing workflow automations, integrating APIs, developing Python-base
 
 ### 📌 What you'll find here
 
-* AI automation workflows
-* Python automation projects
-* API integration examples
-* CRM implementation solutions
-* Power BI dashboards
-* Data analytics projects
-* Process automation tools
+* AI-powered workflows
+* Agentic automation systems
+* LLM + API integrations
+* Multi-step workflow orchestration
+* Structured AI decision pipelines
+* Automation with validation and error handling
 
 I'm always exploring new AI technologies and building solutions that solve real business problems through automation and data.
 
@@ -113,3 +112,5 @@ Documentation: [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI
       <td><a href="https://linkedin.com/in/william-njoku-143b51259">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
+    <td>🌐</td>
+      <td><a href="[https://linkedin.com/in/william-njoku-143b51259](https://x.com/Willyboy011)">You can find me on X</a></td>
