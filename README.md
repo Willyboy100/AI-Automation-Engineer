@@ -113,6 +113,6 @@ Documentation: [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI
     </tr>
     <tr>
     <td>🌐</td>
-      <td><a href="(https://x.com/Willyboy011)">You can find me on X</a></td>
+      <td><a href="https://x.com/Willyboy011">You can find me on X</a></td> 
     </tr>
     <tr>
