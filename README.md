@@ -1,9 +1,11 @@
 # AI AUTOMATION ENGINEER
-CRM Workflows, Automated Business Processes
+AI Agents · Workflow Orchestration · APIs · Business Automation
 ---
 # 👋 Hi, I'm William Njoku
 
-I'm an **AI Automation Engineer** and **Data Analyst** passionate about building intelligent systems that automate repetitive tasks, optimize business processes, and turn data into actionable insights.
+I build AI-powered workflows and automation systems that connect LLMs, APIs, business tools, and data to automate complex processes.
+
+My focus is on turning repetitive, multi-step workflows into reliable systems with structured AI outputs, conditional logic, integrations, and automated execution.
 
 I enjoy designing workflow automations, integrating APIs, developing Python-based solutions, and creating analytics dashboards that help businesses operate more efficiently. My experience spans AI automation, CRM implementation, business intelligence, and process optimization.
 
@@ -36,7 +38,22 @@ I'm always exploring new AI technologies and building solutions that solve real 
 ---
 
 # SKILLS
-As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot, Freshworks, Zapier, Airtable, and automation tools for designing scalable solutions across data analytics and CRM systems. I also use data and automation to simplify processes, improve visibility, and help businesses make smarter, faster decisions.
+TECHNICAL STACK
+
+AI & LLMs
+Claude · OpenAI · Groq · Prompt Engineering · Structured Outputs
+
+Automation & Orchestration
+n8n · Make · Workflow Design · Conditional Logic · Webhooks
+
+Integrations
+REST APIs · JSON · Airtable · CRM Systems
+
+Development & Data
+Python · SQL · Git/GitHub
+
+Business Systems
+HubSpot · Freshworks · Zoho · Power BI
 
 ---
 
