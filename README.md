@@ -20,7 +20,7 @@ I enjoy designing workflow automations, integrating APIs, developing Python-base
 * Git & GitHub
 * CRM Platforms (Freshworks, HubSpot, Zoho)
 
-### 📌 What you'll find here
+### 📌 What I Build
 
 * AI-powered workflows
 * Agentic automation systems
