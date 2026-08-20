@@ -67,7 +67,8 @@ Documentation: [Read More](https://docs.google.com/document/d/1trN7DybOa215AEq32
 
 Demo clip: [Check here](https://www.linkedin.com/posts/activity-7495582971958128640-ZjLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o) 
 
-**AI-Powered Outbound Automation System**
+**Autonomous AI Outreach System
+AI Message Generation & Outreach Orchestration — built for RWA Inc.**
 AI Automation Engineering | n8n · Airtable · LLM APIs
 ![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
 Designed and implemented the AI-powered orchestration layer responsible for qualification gating, lead retrieval, LLM message generation, structured-output validation, channel routing, persistence, and completion state.
