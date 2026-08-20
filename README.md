@@ -69,7 +69,7 @@ Demo clip: [Check here](https://www.linkedin.com/posts/activity-7495582971958128
 **AI-Powered Outbound Automation System**
 AI Automation Engineering | n8n · Airtable · LLM APIs
 ![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
-Built and hardened an AI-powered outbound workflow that transforms qualified leads into personalized, channel-aware first-touch messages. Implemented structured AI output validation, deterministic compliance checks, conditional channel routing, Airtable persistence, and workflow state management. 
+Designed and implemented the AI-powered orchestration layer responsible for qualification gating, lead retrieval, LLM message generation, structured-output validation, channel routing, persistence, and completion state.
 Documentation: [Read More](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing) 
 
 **CRM-Customer Support Automation**
