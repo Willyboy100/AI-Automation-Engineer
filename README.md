@@ -62,6 +62,7 @@ HubSpot · Freshworks · Zoho · Power BI
 ![image](AI Message Drafter.png)
 An AI-powered outbound messaging automation workflow built with n8n, Airtable, and LLM orchestration as part of the RWA Inc Autonomous Outbound System.
 The workflow automates the transition from a qualified prospect record to structured, personalized outreach messages while maintaining lead context, qualification logic, and processing state.
+
 Documentation: [Read More](https://docs.google.com/document/d/1trN7DybOa215AEq32HHpfE_b--StXX1sgw3Z3XM9GP8/edit?usp=sharing)
 
 Demo clip: [Check here](https://www.linkedin.com/posts/activity-7495582971958128640-ZjLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o) 
@@ -70,12 +71,14 @@ Demo clip: [Check here](https://www.linkedin.com/posts/activity-7495582971958128
 AI Automation Engineering | n8n · Airtable · LLM APIs
 ![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
 Designed and implemented the AI-powered orchestration layer responsible for qualification gating, lead retrieval, LLM message generation, structured-output validation, channel routing, persistence, and completion state.
+
 Documentation: [Read More](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing) 
 
 **CRM-Customer Support Automation**
 ![image](Screenshot 2026-05-13 000219.png) 
 Designed and implemented a customer support ticket automation workflow using Make.com, Airtable, Gmail, and Slack to streamline ticket routing, customer communication, and internal support operations.
-For full documentation, 
+For full documentation.
+
 Documentation: [Read More](https://docs.google.com/document/d/1UOj_r8OkzTtBSi95QLr2KXgx-cRPfahOIkdDlCtoqe8/edit?usp=sharing) 
 
 
@@ -83,6 +86,7 @@ Documentation: [Read More](https://docs.google.com/document/d/1UOj_r8OkzTtBSi95Q
 ![image](Screenshot 2026-05-09 025233.png) 
 Designed and implemented an automated lead qualification and customer communication workflow using Make.com, Airtable, Vapi AI, Gmail, Slack, and CRM-based processes.
 The system automates outbound lead engagement, internal notifications, and CRM updates to improve operational efficiency and lead tracking.
+
 Documentation: [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing) 
 
 
