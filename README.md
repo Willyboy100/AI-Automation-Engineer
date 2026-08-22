@@ -110,7 +110,7 @@ Documentation: [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="William_Njoku Data & CRM (3).pdf">Download my CV</a></td>
+      <td><a href="William Njoku Resume Automation Engineer.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
